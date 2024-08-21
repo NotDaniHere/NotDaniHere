@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am DaniHere, and I currently am working on a project called OptiPvP. What is OptiPvP? Great question! OptiPvP is a Minecraft Client that I made over the summer of 2022 and still am working on it. (Check it out at https://github.com/NotDaniHere/OptiPvP) Main programming lanuguage: Java.
-🔭 I’m currently working on opvp-assistant (small python bot for my discord smp server)
-Learning Python, C++(arduino), Java (Spigot Plugins)
+I am Daniel, currently working on becoming a better programmer and a new, long term project. 
+Main programming lanuguage: Python.
+🔭 
+Learning more python, JavaScript/TypeScript for working with the React framework.
 
 
 <!--
@@ -9,12 +10,12 @@ Learning Python, C++(arduino), Java (Spigot Plugins)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on opvp-assistant (small python bot for my discord smp server)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a new, long-term project
+- 🌱 I’m currently learning JavaScript and advanced Python (with Flask)
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ddanihere@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
