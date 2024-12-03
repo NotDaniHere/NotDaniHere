@@ -4,7 +4,7 @@ Main programming lanuguage: Python.
 🔭 
 Road to my country's informatics olympics. C++
 Making apps in Python.
-Here is my portfolio website: https://danihere.xyz
+Here is my portfolio website: http://danihere.xyz
 
 
 <!--
