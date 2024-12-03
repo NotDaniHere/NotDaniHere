@@ -2,8 +2,9 @@
 I am Daniel, currently working on becoming a better programmer and a new, long term project. 
 Main programming lanuguage: Python.
 🔭 
-Learning more python, JavaScript/TypeScript for working with the React framework.
-### My portfolio site: https://danihere.rells.xyz (quarterly updates)
+Road to my country's informatics olympics. C++
+Making apps in Python.
+Here is my portfolio website: https://danihere.xyz
 
 
 <!--
