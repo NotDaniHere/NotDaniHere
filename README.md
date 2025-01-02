@@ -1,10 +1,9 @@
 ### Hi there 👋
 I am Daniel, currently working on becoming a better programmer and a new, long term project. 
 Main programming lanuguage: Python.
-🔭 
-# Road to my country's informatics olympics.
+🔭  Road to my country's informatics olympics.
 # Currently learning C++
-# Making apps in Python.
+# Small projects in Python
 # Portfolio website: https://danihere.xyz
 # Experimenting with Java :D
 
