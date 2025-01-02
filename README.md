@@ -2,11 +2,11 @@
 I am Daniel, currently working on becoming a better programmer and a new, long term project. 
 Main programming lanuguage: Python.
 🔭 
-Road to my country's informatics olympics.
-Currently learning C++
-Making apps in Python.
-Portfolio website: http://danihere.xyz
-
+# Road to my country's informatics olympics.
+# Currently learning C++
+# Making apps in Python.
+# Portfolio website: https://danihere.xyz
+# Experimenting with Java :D
 
 <!--
 **NotDaniHere/NotDaniHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
