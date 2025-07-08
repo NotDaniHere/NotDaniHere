@@ -1,11 +1,12 @@
 ### Hi there 👋
-I am Daniel, currently working on becoming a better programmer and a new, long term project. 
-Main programming lanuguage: Python.
-🔭  Road to my country's informatics olympics.
-# Currently learning C++
-# Small projects in Python
-# Portfolio website: https://danihere.xyz
-# Experimenting with Java :D
+I am Daniel, primarily a competitive programmer and main coder for Axis FTC's team (28128). 
+Main programming lanuguage: C++.
+🏆  Honorable Mention place at Moldova's Regional Informatics Olympiad
+🔭  Looking forward to qualify for the National stage.
+# Competitive Programming (C++, Python)
+# FTC related coding
+# Hobby projects in Python, etc.
+
 
 <!--
 **NotDaniHere/NotDaniHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
